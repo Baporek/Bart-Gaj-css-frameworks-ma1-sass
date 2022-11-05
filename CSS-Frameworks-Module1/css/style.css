@@ -1,0 +1,14 @@
+@import "_variables.css";
+@import "_nav.css";
+@import "_home.css";
+
+body {
+    background-color: var(--background-color);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+
+html,body {
+    height: 100%;
+}
